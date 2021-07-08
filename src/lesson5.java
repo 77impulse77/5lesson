@@ -56,6 +56,7 @@ public class lesson5 {
         for (int i = 0; i < wkr.length; i++) {
             if ( wkr[i].old > 40)
                 wkr[i].info2();
+            //пора завязывать с ночными уроками
 
 
         }
